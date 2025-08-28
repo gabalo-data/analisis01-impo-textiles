@@ -51,6 +51,7 @@ En Argentina, seguido a las políticas de apertura de importaciones realizadas p
 ## 5. Dashboard Final
 
 El dashboard interactivo permite explorar estos hallazgos, filtrando por año, categoría y país de origen.
+
 ![Dashboard de Importaciones Textiles](images/p1_dashboard_final.jpg)
 
 ---
