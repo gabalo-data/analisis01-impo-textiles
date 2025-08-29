@@ -24,6 +24,9 @@ Este proyecto es un análisis que investiga el impacto de las políticas de aper
 
 El proyecto está estructurado para seguir un flujo de trabajo lógico de análisis de datos.
 
+### 📂 `data`
+Contiene un archivo `sample.csv` con una muestra de los datos originales.
+
 ### 📂 `sql/`
 Esta carpeta contiene los scripts SQL secuenciales que documentan todo el proceso de ETL y modelado:
 - **`01_Creacion_Tablas_Raw.sql`:** Crea las tablas iniciales para la carga de datos desde los CSVs.
@@ -71,6 +74,9 @@ This project analyzes the impact of import liberalization policies on the Argent
 ## 3. Workflow and Repository Structure
 
 The project is structured to follow a logical data analysis workflow.
+
+### 📂 `data`
+Contains a file called `sample.csv` that shows how were formatted the original data.
 
 ### 📂 `sql/`
 This folder contains sequential SQL scripts documenting the full ETL and modeling process:
