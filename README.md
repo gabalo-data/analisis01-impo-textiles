@@ -25,7 +25,7 @@ Este proyecto es un análisis que investiga el impacto de las políticas de aper
 El proyecto está estructurado para seguir un flujo de trabajo lógico de análisis de datos.
 
 ### 📂 `data/`
-Aquí podemos encontrar un archivo de muestra de la estructura de cada uno de los CSVs utilizados (sample.csv)
+Aquí podemos encontrar un archivo de muestra de la estructura de cada uno de los CSVs utilizados (sample.csv) y el que contiene las posiciones arancelarias (pos_aranc.csv)
 
 ### 📂 `sql/`
 Esta carpeta contiene los scripts SQL secuenciales que documentan todo el proceso de ETL y modelado:
@@ -77,7 +77,7 @@ This project analyzes the impact of import liberalization policies on the Argent
 The project is structured to follow a logical data analysis workflow.
 
 ### 📂 `data/`
-Here we can find a sample file that shows the structure of each one of the CSVs utilized (sample.csv)
+Here we can find a sample file that shows the structure of each one of the CSVs utilized (sample.csv) and the one that contains the list of hs codes (pos_aranc.csv)
 
 ### 📂 `sql/`
 This folder contains sequential SQL scripts documenting the full ETL and modeling process:
